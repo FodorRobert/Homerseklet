@@ -1,0 +1,7 @@
+C:\Users\fodorr\Gitwork\Homerseklet\bin\Debug\Homerseklet.exe.config
+C:\Users\fodorr\Gitwork\Homerseklet\bin\Debug\Homerseklet.exe
+C:\Users\fodorr\Gitwork\Homerseklet\bin\Debug\Homerseklet.pdb
+C:\Users\fodorr\Gitwork\Homerseklet\obj\Debug\Homerseklet.csproj.AssemblyReference.cache
+C:\Users\fodorr\Gitwork\Homerseklet\obj\Debug\Homerseklet.csproj.CoreCompileInputs.cache
+C:\Users\fodorr\Gitwork\Homerseklet\obj\Debug\Homerseklet.exe
+C:\Users\fodorr\Gitwork\Homerseklet\obj\Debug\Homerseklet.pdb
